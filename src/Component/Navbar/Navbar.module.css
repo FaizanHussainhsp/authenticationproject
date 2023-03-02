@@ -1,0 +1,25 @@
+.navbar {
+  padding: 10px;
+  background-color: blanchedalmond;
+}
+
+.navWrapper {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+}
+
+.navWrapper li {
+  margin: 0 10px;
+}
+.navWrapper a {
+  text-decoration: none;
+}
+
+.navActive {
+  color: goldenrod;
+}
+
+a {
+  color: rgb(107, 59, 1);
+}
